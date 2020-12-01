@@ -1,4 +1,4 @@
-import { number } from '.';
+import number from './number.js';
 
 function tiny(input, header, parse) {
    return parse([header & 0b11111], input);

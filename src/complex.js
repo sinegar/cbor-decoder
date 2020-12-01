@@ -1,4 +1,4 @@
-import { number } from '.';
+import number from './number.js';
 
 export function stop() {
    return stop;

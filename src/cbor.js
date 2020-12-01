@@ -1,4 +1,4 @@
-import { string, number, float, simple, complex, header } from '.';
+import { string, number, float, simple, complex, header } from './index.js';
 
 export function decoder() {
    const list = [],
