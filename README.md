@@ -1,2 +1,3 @@
-# cbor-decoder
-Created with CodeSandbox
+# CBOR decoder
+
+Small, light, and does one thing.

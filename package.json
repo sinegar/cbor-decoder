@@ -1,0 +1,17 @@
+{
+   "name": "cbor-decoder",
+   "version": "0.0.1",
+   "description": "CBOR decoder",
+   "homepage": "https://github.com/sinegar/cbor-decoder",
+   "author": {
+      "name": "Peter Perenyi",
+      "url": "https://github.com/sinegar"
+   },
+   "main": "src/index.js",
+   "module": "src/index.js",
+   "files": ["src/**/*.js"],
+   "scripts": {},
+   "dependencies": {},
+   "devDependencies": {},
+   "keywords": ["cbor", "decode"]
+}
